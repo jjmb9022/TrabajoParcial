@@ -130,7 +130,7 @@ public class Usuario implements Serializable {
 				return false;
 		} else if (!topoUsuario.equals(other.topoUsuario))
 			return false;
-		return true;
+		
 	}
 	
 	
