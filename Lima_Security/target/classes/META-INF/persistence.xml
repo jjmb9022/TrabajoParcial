@@ -5,7 +5,7 @@
 		<exclude-unlisted-classes>false</exclude-unlisted-classes>
 		<properties>
 			<property
-				name="javax.persistence.schema-generation.database.action"
+				name="javax.persistence.schema-generation.database."
 				value="drop-and-create" />
 		</properties>
 	</persistence-unit>
